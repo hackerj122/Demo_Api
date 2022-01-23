@@ -9,5 +9,24 @@
       "title": "Final ccn christs calvary journey",
       "studio": "VOD"
     }]
+    }, {
+    "category": "Songs",
+    "videos": [{
+      "description"",
+      "sources": ["https://video.bunnycdn.com/play/10427/81b37eae-f969-48e8-bd30-f439353833e4"],
+      "card": "https://vz-6fd8d00d-13d.b-cdn.net/81b37eae-f969-48e8-bd30-f439353833e4/thumbnail_942309af.jpg",
+      "background": "https://vz-6fd8d00d-13d.b-cdn.net/81b37eae-f969-48e8-bd30-f439353833e4/thumbnail_942309af.jpg",
+      "title": "Mahima",
+      "studio": "Songs"
+    },
+     {
+       "description": "",
+      "sources": ["https://video.bunnycdn.com/play/10427/2ac95cf0-bf69-4bf8-ab6a-ad3086343767"],
+      "card": "https://vz-6fd8d00d-13d.b-cdn.net/2ac95cf0-bf69-4bf8-ab6a-ad3086343767/thumbnail_0bdfbb54.jpg",
+      "background": "https://vz-6fd8d00d-13d.b-cdn.net/2ac95cf0-bf69-4bf8-ab6a-ad3086343767/thumbnail_0bdfbb54.jpg",
+      "title": "Nikamura",
+      "studio": "Songs"
+     }
+    }]
   }]
 }
