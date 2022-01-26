@@ -1,31 +1,61 @@
 {
-  "CCN VIDEOS": [{
-    "category": "VOD",
-    "videos": [{
-      "description": "",
-      "sources": ["https://video.bunnycdn.com/play/10427/7e796e55-5cb2-443e-9ec9-30ffccb7c13c"],
-      "card": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/thumbnail_85287b19.jpg",
-      "background": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/thumbnail_85287b19.jpg",
-      "title": "Final ccn christs calvary journey",
-      "studio": "VOD"
-    }]
-    }, {
-    "category": "Songs",
-    "videos": [{
-      "description":"",
-      "sources": ["https://video.bunnycdn.com/play/10427/81b37eae-f969-48e8-bd30-f439353833e4"],
-      "card": "https://vz-6fd8d00d-13d.b-cdn.net/81b37eae-f969-48e8-bd30-f439353833e4/thumbnail_942309af.jpg",
-      "background": "https://vz-6fd8d00d-13d.b-cdn.net/81b37eae-f969-48e8-bd30-f439353833e4/thumbnail_942309af.jpg",
-      "title": "Mahima",
-      "studio": "Songs"
-    },
-     {
-       "description": "",
-      "sources": ["https://video.bunnycdn.com/play/10427/2ac95cf0-bf69-4bf8-ab6a-ad3086343767"],
-      "card": "https://vz-6fd8d00d-13d.b-cdn.net/2ac95cf0-bf69-4bf8-ab6a-ad3086343767/thumbnail_0bdfbb54.jpg",
-      "background": "https://vz-6fd8d00d-13d.b-cdn.net/2ac95cf0-bf69-4bf8-ab6a-ad3086343767/thumbnail_0bdfbb54.jpg",
-      "title": "Nikamura",
-      "studio": "Songs"
-     }]
-  }]
+    "status": true,
+    "message": "Successful.",
+    "data": [
+        {
+            "id": "1",
+            "name": "Live Service",
+            "mobile_link": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
+            "category": "Live",
+            "thumbnail": "hd_11M_withouth_logo_ccn_bible_welcome_main_nov_21_(1).jpg"
+        },
+        {
+            "id": "5",
+            "name": "Live HDTV",
+            "mobile_link": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4",
+            "category": "LiveHD",
+            "thumbnail": "hd_11M_withouth_logo_ccn_bible_welcome_main_nov_21.jpg"
+        },
+        {
+            "id": "6",
+            "name": "LIve HD",
+            "mobile_link": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Epic%20Docs%20Animation.mp4",
+            "category": "LiveHD",
+            "thumbnail": "withouth_logo_ccn_bible_welcome_main_nov_21_(1980_x_1080_px)_(1).jpg"
+        },
+        {
+            "id": "7",
+            "name": "CCN Live Radio",
+            "mobile_link": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Epic%20Docs%20Animation.mp4",
+            "category": "Live",
+            "thumbnail": "CCN_Live_(Podcast)_Only_AUDIO_(1).png"
+        },
+        {
+            "id": "9",
+            "name": "Youtube Live",
+            "mobile_link": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Streetview%20Road%20Race.mp4",
+            "category": "Live",
+            "thumbnail": "new_banner_for_web_thumbnail_2022_(1)2.jpg"
+        },
+        {
+            "id": "12",
+            "name": "CCN JOURNEY",
+            "mobile_link": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Streetview%20Road%20Race.mp4",
+            "category": "Songs",
+            "thumbnail": "ccn_amazing_journey.jpg"
+        },
+        {
+            "id": "13",
+            "name": "Bible Study Your Direction of Life",
+            "mobile_link": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Streetview%20Road%20Race.mp4",
+            "category": "VOD",
+            "thumbnail": "DIRECTION_OF_YOUR_LIFE.jpg"
+        },
+        {
+            "id": "14",
+            "name": "Live1",
+            "mobile_link": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Streetview%20Road%20Race.mp4",
+            "category": "Live",
+            "thumbnail": "Copy_of_నూతన_సంవత్సరం.jpg"
+        }]
 }
