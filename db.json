@@ -98,13 +98,5 @@
             "mobile_link": "https://video.bunnycdn.com/play/10427/7e796e55-5cb2-443e-9ec9-30ffccb7c13c",
             "category": "VOD",
             "thumbnail": "My_Strength.jpg"
-        },
-        {
-            "id": "33",
-            "name": "Youtube LHD",
-            "mobile_link": "https://video.bunnycdn.com/play/10427/7e796e55-5cb2-443e-9ec9-30ffccb7c13c",
-            "category": "LiveHD",
-            "thumbnail": "new_banner_for_web_thumbnail_2022_(1)5.jpg"
-        }
-    ]
+        }]
 }
