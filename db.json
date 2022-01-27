@@ -3,14 +3,14 @@
         {
             "id": "1",
             "name": "Live Service",
-            "mobile_link": "https://video.bunnycdn.com/play/10427/7e796e55-5cb2-443e-9ec9-30ffccb7c13c",
+            "mobile_link": "https://www.youtube.com/embed/KHWcem3RgaY",
             "category": "Live",
             "thumbnail": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/card.jpg"
         },
         {
             "id": "2",
             "name": "Live HDTV",
-            "mobile_link": "https://video.bunnycdn.com/play/10427/7e796e55-5cb2-443e-9ec9-30ffccb7c13c",
+            "mobile_link": "https://www.youtube.com/embed/KHWcem3RgaY",
             "category": "LiveHD",
             "thumbnail": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/card.jpg"
         },
