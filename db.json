@@ -3,14 +3,14 @@
         {
             "id": "1",
             "name": "Live Service",
-            "mobile_link": "https://www.youtube.com/embed/KHWcem3RgaY",
+            "mobile_link": "https://www.youtube.com/watch?v=Tld1cqN2lkU&list=RDTld1cqN2lkU",
             "category": "Live",
             "thumbnail": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/card.jpg"
         },
         {
             "id": "2",
             "name": "Live HDTV",
-            "mobile_link": "https://www.youtube.com/embed/KHWcem3RgaY",
+            "mobile_link": "https://www.youtube.com/watch?v=Tld1cqN2lkU&list=RDTld1cqN2lkU",
             "category": "LiveHD",
             "thumbnail": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/card.jpg"
         },
