@@ -1,55 +1,227 @@
-{
-  "googlevideos": [{
-    "category": "Google+",
-    "videos": [{
-      "description": "Jon introduces Instant Upload with a few thoughts on how we remember the things that matter. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com",
-      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
-      "title": "Instant Upload",
-      "studio": "Google+"
-    }, {
-      "description": "With Google+ Instant Upload, every picture you take on your phone is instantly backed up to a private Google+ album. It's a simple way to make sure you never lose another memory.",
-      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/bg.jpg",
-      "title": "New Dad",
-      "studio": "Google+"
-    }, {
-      "description": "Laugh, share news, celebrate, learn something new or stay in touch with Hangouts. And with Hangouts on your phone, you can drop in from wherever you are.",
-      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts.mp4"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts/bg.jpg",
-      "title": "Say more with Hangouts",
-      "studio": "Google+"
-    }, {
-      "description": "Search on Google+ helps you get advice from the people you know -- sometimes when you least expect it. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
-      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/bg.jpg",
-      "title": "Google+ Search",
-      "studio": "Google+"
-    }, {
-      "description": "New ways of sharing the right things with the right people. Join at http://google.com/+",
-      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life.mp4"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Sharing%20but%20like%20real%20life/bg.jpg",
-      "title": "Sharing but like real life",
-      "studio": "Google+"
-    }, {
-      "description": "Jed introduces Circles with a few thoughts on the nature of friendship. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
-      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Circles.mp4"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Circles/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Circles/bg.jpg",
-      "title": "Google+ Circles",
-      "studio": "Google+"
-    }, {
-      "description": "Aimee introduces Hangouts with a few thoughts on the spontaneous get-together. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
-      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts.mp4"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts/bg.jpg",
-      "title": "Google+ Hangouts",
-      "studio": "Google+"
-    }]
-  }]
-}
+ [
+        {
+            "id": "5",
+            "name": "Live HDTV",
+            "mobile_link": "https://ccn-stream.christcalvary.com:19360/ccnfhddc/ccnfhddc.m3u8",
+            "category": "LiveHD",
+            "thumbnail": "LIVE_HD1.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "6",
+            "name": "LIve HD",
+            "mobile_link": "https://ccn-stream.christcalvary.com:19360/ccnhddc/ccnhddc.m3u8",
+            "category": "LiveHD",
+            "thumbnail": "LIVE_HD11.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "12",
+            "name": "CCN JOURNEY",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/playlist.m3u8",
+            "category": "Songs",
+            "thumbnail": "ccn_amazing_journey.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "13",
+            "name": "Bible Study Your Direction of Life",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/playlist.m3u8",
+            "category": "VOD",
+            "thumbnail": "DIRECTION_OF_YOUR_LIFE.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "15",
+            "name": "Traing For King Ship",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/playlist.m3u8",
+            "category": "VOD",
+            "thumbnail": "Traing_For_King_Ship.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "17",
+            "name": "New Year Service 2022 True & Faithful",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/playlist.m3u8",
+            "category": "VOD",
+            "thumbnail": "నూతన_సంవత్సరం1.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "18",
+            "name": "CCN Live R",
+            "mobile_link": "https://ccn-stream.christcalvary.com:19360/ccnhddc/ccnhddc.m3u8",
+            "category": "LiveHD",
+            "thumbnail": "LIVE_HD1_(1).jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "19",
+            "name": "నిరాశలో నిరీక్షణ Sunday Service Live",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/playlist.m3u8",
+            "category": "VOD",
+            "thumbnail": "నిరాశలో_నిరీక్షణ_Sunday_Service_Live.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "20",
+            "name": "ఎంతటి వాడు Live Service",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/playlist.m3u8",
+            "category": "VOD",
+            "thumbnail": "ఎంతటి_వాడు_Live_Service.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "21",
+            "name": "నమ్మదగినవాడవు Sunday Service Live",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/playlist.m3u8",
+            "category": "VOD",
+            "thumbnail": "నమ్మదగినవాడవు_Sunday_Service_Live.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "22",
+            "name": "Don't Loss Hope",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/playlist.m3u8",
+            "category": "VOD",
+            "thumbnail": "Donot_Lose_Hope.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "23",
+            "name": "My Goal",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/playlist.m3u8",
+            "category": "VOD",
+            "thumbnail": "My_Goal.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "24",
+            "name": "Danger of Ignorance",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/playlist.m3u8",
+            "category": "VOD",
+            "thumbnail": "Danger_of_Ignorance.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "25",
+            "name": "Rain From Dark Clouds",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/playlist.m3u8",
+            "category": "VOD",
+            "thumbnail": "Rain_From_Dark_Cloud.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "26",
+            "name": "Hope Sunday Service Live",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/playlist.m3u8",
+            "category": "VOD",
+            "thumbnail": "Hope_Sunday_Service_Live.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "27",
+            "name": "New Year Service 2022 True & Faithful",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/playlist.m3u8",
+            "category": "VOD",
+            "thumbnail": "నూతన_సంవత్సరం2.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "29",
+            "name": "My Strength",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/playlist.m3u8",
+            "category": "VOD",
+            "thumbnail": "My_Strength.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "33",
+            "name": "Live YT",
+            "mobile_link": "https://ccn-stream.christcalvary.com:19360/ccn350dc/ccn350dc.m3u8",
+            "category": "LiveHD",
+            "thumbnail": "LIVE_HD1_(3).jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "34",
+            "name": "Moses Understood",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/7e796e55-5cb2-443e-9ec9-30ffccb7c13c/playlist.m3u8",
+            "category": "VOD",
+            "thumbnail": "మోషేకు_అర్థమైంది_మరి_మీకు_.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "35",
+            "name": "YouTube",
+            "mobile_link": "https://www.youtube.com/c/CCNchristscalvary",
+            "category": "Virtual Live",
+            "thumbnail": "WhatsApp_Image_2022-02-05_at_7_17_58_PM.jpeg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "36",
+            "name": "Virtual Meeting",
+            "mobile_link": "https://us02web.zoom.us/j/89303581367#success",
+            "category": "Virtual Live",
+            "thumbnail": "WhatsApp_Image_2022-02-05_at_7_17_59_PM.jpeg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "37",
+            "name": "PREMINCHEDA YESU RAJA",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/94faf52e-8c81-4aa0-b9a5-698a1201932c/playlist.m3u8",
+            "category": "Songs",
+            "thumbnail": "PREMINCHEDA_YESU_RAJA.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "38",
+            "name": "Aaradhana Yesu Neeke",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/357d1169-9fd8-48cb-8547-bcd5cca0b748/playlist.m3u8",
+            "category": "Songs",
+            "thumbnail": "Aaradhana_Yesu_Neeke.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "39",
+            "name": "Entha Manchi Devudavesayyaa",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/ee523849-7fab-42b7-abc6-bb4a3f9d5473/playlist.m3u8",
+            "category": "Songs",
+            "thumbnail": "Entha_Manchi_Devudavesayyaa.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        },
+        {
+            "id": "40",
+            "name": "NEEVU LEKAPOTHEY",
+            "mobile_link": "https://vz-6fd8d00d-13d.b-cdn.net/b37ae10e-85db-4652-8aa8-826a80eb719f/playlist.m3u8",
+            "category": "Songs",
+            "thumbnail": "NEEVU_LEKAPOTHEY.jpg",
+            "live": false,
+            "time_str": "Fri 11 Feb 19:30 pm"
+        }
+    ]
